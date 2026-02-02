@@ -16,6 +16,6 @@ if(v<10)
 }
 }
 
-console.log(Resolve(11));
-console.log(Reject(9));
+console.log(Resolve(9));
+console.log(Reject(45));
 
