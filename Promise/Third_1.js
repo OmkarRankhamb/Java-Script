@@ -4,7 +4,7 @@ let num = "2345678123239";
 
 const prom = new Promise((Resolve,Reject)=>{
     setTimeout(()=>{
-        if(num>=10)
+        if(num==10)
         {
             return Resolve ("valid number");
 
