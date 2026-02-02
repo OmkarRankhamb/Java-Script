@@ -28,7 +28,7 @@
 
 const prom = new Promise((Resolve,Reject)=>{
 //prom.then((Resolve,Reject)=>{
- let v= 10;
+ let v= 100;
 
  setTimeout(()=>{
     if(v>50){
