@@ -5,7 +5,7 @@ let obj = {
     "city":"pune"
 };
 
- console.log(obj);
+ console.log(obj); 
 
 console.log(Object.values(obj));
 
